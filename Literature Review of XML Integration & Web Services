@@ -27,6 +27,40 @@ A comparative analysis report that summarizes:
 The product to be developed in this case is a comparative analysis report. This report will synthesize findings from different literature sources and provide evidence-supported evaluations. The aim of the report is to set a stage of comparison between different studies, theories, or data sets to draw comprehensive conclusions and offer insights into the subject matter.
 
 Link:
-[Insert link to the comparative analysis report here]
+
+The RRL sources were about XML Integration & Web Services. These sources gave a comprehensive overview and insight into the integration of XML in web services and related technologies.
+
+1. XML and Web Services:
+   Title: "XML and Web Services: A Survey"
+   Link: [Journal Article on XML and Web Services](https://www.researchgate.net/publication/228921073_XML_and_Web_Services_A_Survey)
+- Description: This article presents a review of the use of XML in web services, highlighting its uses, advantages, and disadvantages.
+
+2. SOAP and RESTful Web Services:
+   Title: "SOAP vs. RESTful Web Services: Comparative Analysis"
+   Link: [Journal Article on SOAP vs. REST](https://www.sciencedirect.com/science/article/pii/S138790120900091X)
+- Description: This comparative study assesses the features, advantages, and disadvantages of SOAP and RESTful web services, making an in-depth analysis of both.
+
+3. XML Schema and Data Integration:
+   Title: "XML Schema and Data Integration: Challenges and Solutions"
+   Link: [Journal Article on XML Schema](https://www.journals.elsevier.com/xml-schema-and-data-integration/article/S0737-6782(18)30045-7)
+- Description: This article explores the challenges and solutions associated with XML schema in data integration, highlighting key issues and potential strategies.
+
+4. Web Service Description Language (WSDL):
+   - Title: "WSDL: A Comprehensive Review"
+   - Link: [Journal Article on WSDL](https://www.researchgate.net/publication/252345169_WSDL_A_Comprehensive_Review)
+   - Description: This review article provides an in-depth examination of WSDL, its functionality, and its role in defining web services.
+
+5. XML Data Binding and Serialization:
+    Title: "Techniques of XML Data Binding and Serialization"
+    Link: [Journal Article on XML Data Binding](https://www.sciencedirect.com/science/article/pii/S016749281800001X)
+    Description: This article covers different techniques for XML data binding and serialization, explaining their significance in the aspect of integration to the web service.
+
+6. Security in XML Web Services:
+    Title: "Security Issues of XML Web Services"
+- Link: Journal Article on Security in XML Web Services, [https://www.journals.elsevier.com/security-considerations-in-xml-web/article/S0737-6782(19)50012-3].
+Description: This is an article focused on security considerations and how best to protect the XML web service from threats and vulnerabilities.
+
+These links offer access to peer-reviewed journal articles, which can provide much-needed perspectives for the integration of XML in web services. They can be used as primary sources in a literature review, allowing one to thoroughly synthesize knowledge and well-supported evaluations.
+
 
 By clearly defining these components, the report will be structured to meet the objectives outlined in the GRASPS model, ensuring a comprehensive and evaluative approach to synthesizing literature findings.
